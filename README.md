@@ -86,7 +86,7 @@ While **LIME** provided the explanation we needed, it has some limitations, incl
 
 To run the project, simply click the button below, and it will open the project in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkhilByteWrangler/Explainable-Cat-AI/blob/main/LIME_Explains_The_Cat.ipynb)
 
 This will allow you to run the notebook directly in your browser with no local setup required!
 
