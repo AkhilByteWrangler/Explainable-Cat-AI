@@ -4,7 +4,7 @@
 
 This repository explores how to explain the decision-making process of a pre-trained black-box model (**ResNet34**) using **LIME (Local Interpretable Model-agnostic Explanations)**. Specifically, we dive into the case of a **confused cat** image, analyzing why the model predicts that the image contains a cat, and which parts of the image were most critical to that decision.
 
-![Confused Cat Image]([confused-cat.gif](https://github.com/AkhilByteWrangler/Explainable-Cat-AI/blob/main/cat-confused.gif))
+![Confused Cat](https://github.com/AkhilByteWrangler/Explainable-Cat-AI/blob/main/cat-confused.gif?raw=true)
 
 ---
 
